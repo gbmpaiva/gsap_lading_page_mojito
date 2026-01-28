@@ -40,12 +40,12 @@ const Contact = () => {
 	
 <div>
   <h3>Visite Nosso Bar</h3>
-  <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
+  <p>Duss Bar</p>
 </div>
 		
 <div>
   <h3>Fale Conosco</h3>
-  <p>(81) 995931782</p>
+  <p>(81) 995931282</p>
   <p>hello@contact.com</p>
 </div>
 		

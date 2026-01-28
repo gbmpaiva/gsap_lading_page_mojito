@@ -102,7 +102,7 @@ const goodLists = [
 
 const storeInfo = {
     heading: "Onde Nos Encontrar",
-    address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
+    address: "Duss Bar",
     contact: {
         phone: "(555) 987-6543",
         email: "hello@jsmcocktail.com",
