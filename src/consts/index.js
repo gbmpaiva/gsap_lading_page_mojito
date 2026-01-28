@@ -22,25 +22,25 @@ const cocktailLists = [
         name: "Chapel Hill Shiraz",
         country: "AU",
         detail: "Taça",
-        price: "$10",
+        price: "R$10",
     },
     {
         name: "Caten Malbee",
         country: "AU",
         detail: "Taça",
-        price: "$49",
+        price: "R$49",
     },
     {
         name: "Rhino Pale Ale",
         country: "CA",
         detail: "750 ml",
-        price: "$20",
+        price: "R$20",
     },
     {
         name: "Guinness Irlandesa",
         country: "IE",
         detail: "600 ml",
-        price: "$29",
+        price: "R$29",
     },
 ];
 
@@ -49,25 +49,25 @@ const mockTailLists = [
         name: "Florescimento Tropical",
         country: "US",
         detail: "Taça",
-        price: "$10",
+        price: "R$10",
     },
     {
         name: "Maracujá com Hortelã",
         country: "US",
         detail: "Taça",
-        price: "$49",
+        price: "R$49",
     },
     {
         name: "Brilho Cítrico",
         country: "CA",
         detail: "750 ml",
-        price: "$20",
+        price: "R$20",
     },
     {
         name: "Espuma de Lavanda",
         country: "IE",
         detail: "600 ml",
-        price: "$29",
+        price: "RR$29",
     },
 ];
 
